@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-16.2.0.aar/3941c0ff847db1a54d8a93781a49d4a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-16.2.0.aar/ca5442112e0a240af8cfb8518edee1dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/2a9ff4e6d55eb64fe7a714993db084b6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/300a7a93dac8b1f3577bbddd7250b781/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/c6f7dbd5732c2033191da1d6423ad73c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7d8a8203d366a64e453725b9f4b1ce47/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8b4436a7279ae0089a402cb71df8d5c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09a4bfe767caf293593e6cc8bd896e99/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da01f0df331c3fc0b440f97dc10d9130/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ebbd61799b720937866ac0b814a17c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/10dd8e5d27a04f2f4a3fe086a5a1b645/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33282d36781577eef46088c1835fc91d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0c20fed850edc2f8850fc5c4645ed96d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ce539a450a9115dc5e3039d812fa257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/67b532ef2107a4e43f547e5f3b10fd0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/81312fffcd9ffdd3946b86f07de71f91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e88b5a29f708da18d49c9b5296d6611c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c21bc21019c784c294c4e283815c14a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0cb45dbf424628296b92d82203f29e82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/824ca771fad88b621e12fe8919bdc58c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d54d0c6fbe4089b3c071f1efe3704fcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/039958a31d66af9658fd7f384a6408e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/786ac3e980efa619704491bdc98b468e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35eae31e250468a09e05846849e60530/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/87c8f4f031a1f2874aae381c8d1ebb12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/37764afcae85e59548f7617a4a81658d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3a0b22c00445e43a39808c53cca2312c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3cf10995daf0060452b0f40abc4c9c1/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/866ebf18ee9bdb1a2a161cf3b564af04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dae1f37887ff36abd9d3d25c25c68ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/edbab73c1078f6ea8a0ac7eb87a0e5b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0693650e908b5ee11f98c759e71ef858/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8a4b5b41144bb87317fb651bbea896ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/aeadd7e1e16a3ea869e7bfc90f9f9418/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b884eb5d9328f2c80807d61b9df21ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3d406434ec489cec93958eb62760a8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eef9d6c6fd4ed5968957d49836c83c99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20939e1b5134bd78ff07e60cae79f376/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-16.2.0.aar/3941c0ff847db1a54d8a93781a49d4a1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-16.2.0.aar/3941c0ff847db1a54d8a93781a49d4a1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-16.2.0.aar/ca5442112e0a240af8cfb8518edee1dd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-16.2.0.aar/ca5442112e0a240af8cfb8518edee1dd/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/2a9ff4e6d55eb64fe7a714993db084b6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/2a9ff4e6d55eb64fe7a714993db084b6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/c6f7dbd5732c2033191da1d6423ad73c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/c6f7dbd5732c2033191da1d6423ad73c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7d8a8203d366a64e453725b9f4b1ce47/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7d8a8203d366a64e453725b9f4b1ce47/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09a4bfe767caf293593e6cc8bd896e99/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09a4bfe767caf293593e6cc8bd896e99/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/37764afcae85e59548f7617a4a81658d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/37764afcae85e59548f7617a4a81658d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3cf10995daf0060452b0f40abc4c9c1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3cf10995daf0060452b0f40abc4c9c1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/37764afcae85e59548f7617a4a81658d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:26:13-40
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-16.2.0.aar/3941c0ff847db1a54d8a93781a49d4a1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-16.2.0.aar/3941c0ff847db1a54d8a93781a49d4a1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-16.2.0.aar/ca5442112e0a240af8cfb8518edee1dd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-16.2.0.aar/ca5442112e0a240af8cfb8518edee1dd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/2a9ff4e6d55eb64fe7a714993db084b6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/2a9ff4e6d55eb64fe7a714993db084b6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/300a7a93dac8b1f3577bbddd7250b781/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/300a7a93dac8b1f3577bbddd7250b781/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/c6f7dbd5732c2033191da1d6423ad73c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/c6f7dbd5732c2033191da1d6423ad73c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7d8a8203d366a64e453725b9f4b1ce47/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7d8a8203d366a64e453725b9f4b1ce47/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3f26134812d1d8c2a0bf3bd4581dbfc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8b4436a7279ae0089a402cb71df8d5c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8b4436a7279ae0089a402cb71df8d5c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09a4bfe767caf293593e6cc8bd896e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/09a4bfe767caf293593e6cc8bd896e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da01f0df331c3fc0b440f97dc10d9130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/da01f0df331c3fc0b440f97dc10d9130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ebbd61799b720937866ac0b814a17c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4ebbd61799b720937866ac0b814a17c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/10dd8e5d27a04f2f4a3fe086a5a1b645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/10dd8e5d27a04f2f4a3fe086a5a1b645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33282d36781577eef46088c1835fc91d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33282d36781577eef46088c1835fc91d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0c20fed850edc2f8850fc5c4645ed96d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0c20fed850edc2f8850fc5c4645ed96d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ce539a450a9115dc5e3039d812fa257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ce539a450a9115dc5e3039d812fa257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/67b532ef2107a4e43f547e5f3b10fd0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/67b532ef2107a4e43f547e5f3b10fd0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/81312fffcd9ffdd3946b86f07de71f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/81312fffcd9ffdd3946b86f07de71f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e88b5a29f708da18d49c9b5296d6611c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e88b5a29f708da18d49c9b5296d6611c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c21bc21019c784c294c4e283815c14a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c21bc21019c784c294c4e283815c14a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0cb45dbf424628296b92d82203f29e82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0cb45dbf424628296b92d82203f29e82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/824ca771fad88b621e12fe8919bdc58c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/824ca771fad88b621e12fe8919bdc58c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d54d0c6fbe4089b3c071f1efe3704fcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d54d0c6fbe4089b3c071f1efe3704fcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/039958a31d66af9658fd7f384a6408e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/039958a31d66af9658fd7f384a6408e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/786ac3e980efa619704491bdc98b468e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/786ac3e980efa619704491bdc98b468e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35eae31e250468a09e05846849e60530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35eae31e250468a09e05846849e60530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/87c8f4f031a1f2874aae381c8d1ebb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/87c8f4f031a1f2874aae381c8d1ebb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/37764afcae85e59548f7617a4a81658d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/37764afcae85e59548f7617a4a81658d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3a0b22c00445e43a39808c53cca2312c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3a0b22c00445e43a39808c53cca2312c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3cf10995daf0060452b0f40abc4c9c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c3cf10995daf0060452b0f40abc4c9c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/866ebf18ee9bdb1a2a161cf3b564af04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/866ebf18ee9bdb1a2a161cf3b564af04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dae1f37887ff36abd9d3d25c25c68ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dae1f37887ff36abd9d3d25c25c68ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/edbab73c1078f6ea8a0ac7eb87a0e5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/edbab73c1078f6ea8a0ac7eb87a0e5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0693650e908b5ee11f98c759e71ef858/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0693650e908b5ee11f98c759e71ef858/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8a4b5b41144bb87317fb651bbea896ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8a4b5b41144bb87317fb651bbea896ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/aeadd7e1e16a3ea869e7bfc90f9f9418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/aeadd7e1e16a3ea869e7bfc90f9f9418/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b884eb5d9328f2c80807d61b9df21ecb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b884eb5d9328f2c80807d61b9df21ecb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3d406434ec489cec93958eb62760a8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3d406434ec489cec93958eb62760a8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eef9d6c6fd4ed5968957d49836c83c99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eef9d6c6fd4ed5968957d49836c83c99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20939e1b5134bd78ff07e60cae79f376/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20939e1b5134bd78ff07e60cae79f376/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ememobongakpanekpo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ememobongakpanekpo/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/9128d384a3d224cdb0033d5ee4166323/AndroidManifest.xml:24:13-79
